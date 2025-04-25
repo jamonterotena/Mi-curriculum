@@ -95,3 +95,151 @@ recommendations:
     role: Catedrática de Agrobioinformática en Justus Liebig University
     recommendation: |
       *"Jose ha demostrado una genuina capacidad para desenvolverse en entornos diversos y contribuir a un ambiente colaborativo"* ([Ver carta de recomendación](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+certifications:
+  title: Certificaciones
+  list:
+    - name: "Taller: Estandarización y armonización de flujos de análisis NGS"
+      start: "Sep 2024"
+      end:
+      organization: "German Conference of Bioinformatics, Bielefeld, Germany"
+      credentialid:
+      credentialurl: www.gcb2024.de/
+      credentialname: link
+      details: |
+    - name: "Taller: Aprendizaje automático con tidymodels"
+      start: "Ago 2024"
+      end:
+      organization: "Posit Conference, Seattle, USA"
+      credentialid:
+      credentialurl: www.linkedin.com/posts/chaima-boug_seattle-posit-positconf2024-ugcPost-7229004878839255042-B4LL?utm_source=share&utm_medium=member_desktop
+      credentialname: link
+      details: |
+    - name: "Cursos de DataCamp (x18) sobre Python, R y Shell, cubriendo fundamentos de codificación, manipulación de datos, estadística y aprendizaje automático"
+      start: 2022
+      end:
+      organization: "datacamp"
+      credentialid:
+      credentialurl: www.datacamp.com/portfolio/jamonterotena?view=true
+      credentialname: link
+      details: |
+    - name: "Cultivo de tejidos vegetales y transformación genética"
+      start: "Abril 2020"
+      end: 
+      organization: "JLU, Giessen, Germany"
+      credentialid:
+      credentialurl: https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0
+      credentialname: link
+      details: |
+    - name: "Bioinformática para principiantes"
+      start: "Sep 2021"
+      end:
+      organization: "Coursera, UC San Diego"
+      credentialid:
+      credentialurl: www.linkedin.com/posts/joseantoniomonterotena_completion-certificate-for-biology-meets-activity-6841831236089065472-7bwX?utm_source=share&utm_medium=member_desktop
+      credentialname: link
+      details: |
+    - name: "Secuenciación del genoma completo de bacterias"
+      start: "Sep 2021"
+      end:
+      organization: "Coursera, TU Denmark"
+      credentialid:
+      credentialurl: www.linkedin.com/posts/joseantoniomonterotena_completion-certificate-for-whole-genome-sequencing-activity-6848685870837575682-CJvV?utm_source=share&utm_medium=member_desktop
+      credentialname: link
+      details: |
+
+sidebar:
+  position: left
+  about: False
+  education: False
+  
+  name: Jose Montero
+  tagline: Ciencia de Datos | Genómica Vegetal
+  avatar: agrobioinformatics.jpg
+  
+  fullname: "Montero Tena, José Antonio"
+  citizenship: Español
+  timezone: Europe/Berlin
+  email: jmonterotena@gmail.com
+  linkedin: joseantoniomonterotena
+  github: jamonterotena
+  phone: +34 603 769 969
+  certificates: https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0
+
+  languages:
+    title: Idiomas
+    info:
+      - idiom: Español
+        level: ★★★★★
+      - idiom: Inglés
+        level: ★★★★★
+      - idiom: Alemán
+        level: ★★★☆☆
+      - idiom: Italiano
+        level: ★★☆☆☆
+
+  skills_sidebar:
+    title: Habilidades
+    categories:
+      - title: 💻 Programación y Scripting
+        info:
+          - idiom: Bash
+            level: ★★★★★
+          - idiom: R
+            level: ★★★★★
+          - idiom: SLURM
+            level: ★★★★★
+          - idiom: Python
+            level: ★★★☆☆
+          - idiom: SQL
+            level: ★★★☆☆
+      - title: 🧬 Bioinformática y Genómica
+        info:
+          - idiom: Next Generation Sequencing
+            level: ★★★★★
+          - idiom: Imputación Genómica
+            level: ★★★★☆
+          - idiom: Simulación Genómica
+            level: ★★★★☆
+          - idiom: Análisis Multi-Omics
+            level: ★★★☆☆
+      - title: 📊 Aprendizaje Automático y Ciencia de Datos
+        info:
+          - idiom: tidymodels
+            level: ★★★★★
+          - idiom: XGBoost
+            level: ★☆☆☆☆
+      - title: 🛠️ Software y Herramientas
+        info:
+          - idiom: Git (Control de versiones)
+            level: ★★★★★
+          - idiom: MarkDown/Quarto
+            level: ★★★★★
+          - idiom: ChatGPT para Productividad
+            level: ★★★☆☆
+          - idiom: Amazon S3
+            level: ★☆☆☆☆
+      - title: 🖥️ Computación e Infraestructura
+        info:
+          - idiom: AlphaSimR
+            level: ★★★★★
+          - idiom: Computación de Alto Rendimiento
+            level: ★★★★★
+          - idiom: Terminal de Linux
+            level: ★★★★☆
+      - title: 🎯 Productividad
+        info:
+          - idiom: Mecanografía Rápida
+            level: ★★★★★
+          - idiom: Control de Versiones
+            level: ★★★☆☆
+      - title: 🚗 Otras habilidades
+        info:
+          - idiom: Carnet de conducir tipo B
+            level: ★★★★★
+
+  interests:
+    title: Intereses
+    info:
+      - item:  "🎸 Guitarra Clásica"
+      - item:  "🚵 Mountain Bike"
+      - item:  "🗣️ Idiomas"
